@@ -1,6 +1,6 @@
 # Demystifying Higher Dimensions via 3D Lattice Dynamics
 
-Demystifying Extra Dimensions via 3D Lattice Dynamics
+Zou, Z. K. (2026). Demystifying Extra Dimensions via 3D Lattice Dynamics. Zenodo. https://doi.org/10.5281/zenodo.20576855
 
 
 Zou Zhi Kai 邹志凯 Independent Researcher
